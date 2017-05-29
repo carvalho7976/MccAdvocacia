@@ -10,7 +10,12 @@
             <link href="min/plugin-min.css" type="text/css" rel="stylesheet">
             <link href="min/custom-min.css" type="text/css" rel="stylesheet" >
               <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
+            
+             <script src="js/jquery-2.1.1.min.js"></script>
+             <script src="js/materialize.js"></script>
+            <script src="min/plugin-min.js"></script>
+            <script src="min/custom-min.js"></script>
+        
         </head>
         <body id="top" class="scrollspy">
 
@@ -30,7 +35,7 @@
                     <div class="nav-wrapper">
                     <a href="#" id="logo-container" class="brand-logo"><img src="img/logo.png" height="64px;" width="256px;"/></a>
                         <ul class="right hide-on-med-and-down">
-                            <li><a href="#intro">Home</a></li>
+                            <li><a href="#intro">Sobre</a></li>
                             <li><a href="#work">Àreas de atuação</a></li>
                             <li><a href="#team">Equipe</a></li>
                             <li><a href="#contact">Contato</a></li>
@@ -49,19 +54,64 @@
         </div>
 
         <!--Hero-->
-
-
-        <!--Intro and service-->
-        <div id="intro" class="section scrollspy" style="rgba(209, 205, 205, 0.11);">
+            <div class="section scrollspy"></div>
             <div class="container">
                 <div class="row">
-                    <div  class="col s12">
-                        <h2 class="center header text_h2"> Tais são os preceitos do direito: <span class="span_h2"> viver honestamente</span> , <span class="span_h2">não ofender ninguém</span>, <span class="span_h2">dar a cada um o que lhe pertence.</span> <i>"Eneu Domício Ulpiano"</i></h2>
+                     <div class="slider fullscreen">
+            <ul class="slides">
+              <li>
+                <img src="img/predio.jpg"> <!-- random image -->
+                <div class="caption center-align">
+                  <h3>Profissionais qualificados</h3>
+                  <h5 class="light grey-text text-lighten-3">Somos um grupo especializado em diversas áreas do direito</h5>
+                </div>
+              </li>
+              <li>
+                <img src="img/predio3.jpg"> <!-- random image -->
+                <div class="caption left-algn">
+                  <h3>Faça-nos uma visita</h3>
+                </div>
+              </li>
+              <li>
+                <img src="img/martelo.jpg"> <!-- random image -->
+                <div class="caption right-align">
+                  <h3>Right Aligned Caption</h3>
+                  <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                </div>
+              </li>
+              <li>
+                <img src="img/direito_do_trabalho.jpg"> <!-- random image -->
+                <div class="caption center-align">
+                  <h3>This is our big Tagline!</h3>
+                  <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                </div>
+              </li>
+            </ul>
+            </div>
+                </div>
+            
+            </div>
+           
+        <div class="wraper">
+            
+             <!--Intro and service-->
+        <div  class="section scrollspy" style="rgba(209, 205, 205, 0.11); position: relative; top: 90vh;">
+            <div class="container">
+                <div class="row">
+                    <div  class="col s12" id="intro">
+        
+                        <h2 class="header">Sobre</h2>
+                        <p class="flow-text">
+                            A CCM Advogados é um moderno escritório de advocacia sediado na cidade de Marabá atendo toda região sul do estado, que tem por objetivo a prestação de serviços de assessoria e consultoria jurídica em todos os segmentos do Direito, reúne uma equipe de advogados com larga experiência e conhecimento em diversas especialidades do Direito. A experiência e o aperfeiçoamento técnico dos profissionais do escritório CCM Advogados permitem colocar à disposição de seus clientes uma prestação de serviços de assessoria e consultoria com grau elevado de qualidade e confiabilidade. A escolha de nossa organização traduz a certeza da contratação de um escritório moderno, ágil e competente. Atingir resultados e ultrapassar as expectativas dos clientes são nossos maiores compromissos. 
+                        
+                        </p>
                     </div>
 
                     <div class="row">
                         <div  class="col s12"   id="work">
+                             <h2 class="header">Áreas de Atuação</h2>
                             <div class="col m3 l3">
+                               
                                <div class="card">
             <div class="card-image waves-effect waves-block waves-light"  >
               <img class="activator" src="img/direito_do_trabalho.jpg">
@@ -241,11 +291,20 @@
                 </div>
             </div>
         </footer>
+        </footer>
+            
+        </div>
+       
 
 
             <!--  Scripts-->
-            <script src="min/plugin-min.js"></script>
-            <script src="min/custom-min.js"></script>
+               
 
             </body>
+            <script type="text/javascript">
+             $(document).ready(function(){
+      $('.slider').slider();
+    });
+            
+            </script>
         </html>

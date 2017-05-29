@@ -28,6 +28,11 @@
     box-shadow: none !important; 
     -webkit-box-shadow:none !important;
 }
+.wraper{
+    
+    position: relative;
+    top : 100vh;
+}
 
 .text_h {
     padding: 15% 0;
