@@ -14,8 +14,32 @@
 }
 
 
-#intro, #work, #team {padding-top: 4rem;}
+#intro, #work, #team {padding-top: 4rem;
+    
+    background-color: white;
+}
+.header{
+    font-size: 2.56rem !important;
+    text-decoration: underline;
+}
 
+.atuacao{
+   background-color:rgba(250, 250, 250,1.0);
+  font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 22px;
+    line-height: 1.4em;
+    font-family: helvetica-w01-bold, helvetica-w02-bold, helvetica-lt-w10-bold, sans-serif;
+   color: #383838;
+}
+.atuacao h5{
+   font-weight: bold;
+    font-style: oblique;
+}
 
 #index-banner {
     min-height: 632px;
@@ -31,7 +55,7 @@
 .wraper{
     
     position: relative;
-    top : 100vh;
+    top : 80vh;
 }
 
 .text_h {
@@ -41,6 +65,9 @@
     color:white;
 }
 
+p{
+    text-align: justify;
+}
 .brand-logo{
     position: absolute;
     color: #fff;
@@ -69,17 +96,15 @@
 
 .card-content a:hover {color: #424242;}
 
-#work, #team{background: rgb(247, 247, 247);}
-
 .text_pink{color:#EF9A9A;}
 
 nav ul a {
     font-size: 1.2rem;
     color: #FFF;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     display: block;
-    font-weight: 300;
-    padding: 0px 15px;
+    font-weight: 320;
+    padding: 0px 10px;
 }
 
 .cd-headline.type .cd-words-wrapper {

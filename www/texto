@@ -1,0 +1,63 @@
+<div class="col m3 l3">
+                               
+                               <div class="card">
+            <div class="card-image waves-effect waves-block waves-light"  >
+              <img class="activator" src="img/direito_do_trabalho.jpg">
+            </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Direito Trabalhista<i class="material-icons right"></i></span>
+                      <p>O direito trabalhista, também chamado de direito do trabalho ou laboral, é o ramo do direito que regula as relações existentes entre empregados e empregadores.</p>
+                    </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Direito Trabalhista<i class="material-icons right">x</i></span>
+              <p>O direito trabalhista, também chamado de direito do trabalho ou laboral, é o ramo do direito que regula as relações existentes entre empregados e empregadores. Ela é estabelecida por meio de um conjunto de normas regidas pela Consolidação das Leis do Trabalho - CLT, a Constituição Federal (um conjunto de leis superior às outras no caso do sistema jurídico) e outras leis esparsas (leis incomuns e que não se encontram num código ou na Constituição).</p>
+            </div>
+          </div>
+                            </div>
+                            
+                            
+                                             <div class="col m3 l3">
+                                 <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="img/direito_penal.jpg">
+            </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Direito Penal<i class="material-icons right"></i></span>
+                      <p>Tradicionalmente, entende-se que o direito penal visa a proteger os bens jurídicos fundamentais (todo valor reconhecido pelo direito). No crime de furto, por exemplo, o resultado...</p>
+                    </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Direito Penal<i class="material-icons right">x</i></span>
+              <p>Tradicionalmente, entende-se que o direito penal visa a proteger os bens jurídicos fundamentais (todo valor reconhecido pelo direito). No crime de furto, por exemplo, o resultado é representado pela ofensa ao bem jurídico "patrimônio"; no homicídio, há lesão ao bem jurídico "vida humana"; na coação, uma violação à liberdade individual. Essa seria a tríade fundamental de bens jurídicos tutelados coativamente pelo Estado: vida, liberdade e propriedade.</p>
+            </div>
+          </div>
+                            </div>
+                            <div class="col m3 l3">
+                                <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="img/direito_eleitoral.jpg">
+            </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Direito Eleitoral<i class="material-icons right"></i></span>
+                      <p>O Direito Eleitoral, no Brasil, é o ramo autônomo do Direito Público encarregado de regulamentar os direitos políticos dos cidadãos e o processo eleitoral.  De uma forma mais específica ...</p>
+                    </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Direito Eleitoral<i class="material-icons right">x</i></span>
+              <p>O Direito Eleitoral, no Brasil, é o ramo autônomo do Direito Público encarregado de regulamentar os direitos políticos dos cidadãos e o processo eleitoral. De uma forma mais específica, é uma especialização do direito constitucional, cujo conjunto sistematizado de normas destina-se a assegurar a organização e o exercício de direitos políticos, principalmente os que envolvem votar e ser votado (Art. 1º do Código Eleitoral - Lei nº 4.737/65).</p>
+            </div>
+          </div>
+                            </div>
+                            <div class="col m3 l3">
+                                <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="img/direito_consumidor.jpg">
+            </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4" >Direito do Consumidor<i class="material-icons right"></i></span>
+                      <p>O Direito do Consumidor é um ramo do direito que lida com as coisas de consumo e com a atuação dos direitos dos interessados.</p>
+                    </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Direito do Consumidor<i class="material-icons right">x</i></span>
+              <p>O Direito do Consumidor é um ramo do direito que lida com as coisas de consumo e com a atuação dos direitos dos interessados. Se encontra desenvolvido na maior parte dos países com sociedades de notavel e sistemas legais funcionais. Entretanto, devemos de uma forma coesa, atribuir os reais valores aos consumidores, reconhecendo as falcatruas e beligerantes atitudes de muitos fornecedores, principalmente no reino animal e vegetal quanto as condições dos vários produtos fornecidos aos consumidores.</p>
+            </div>
+          </div>
+                            </div>
