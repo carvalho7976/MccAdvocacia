@@ -12,7 +12,10 @@
 .icon-block {
     padding: 0 15px;
 }
-
+ #map {
+        height: 400px;
+        width: 100%;
+       }
 
 #intro, #work, #team {padding-top: 4rem;
     
