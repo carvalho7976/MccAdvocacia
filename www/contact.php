@@ -47,7 +47,8 @@ $headers .= "Reply-To: ".$emailremetente.$quebra_linha;
 
 /* Enviando a mensagem */
 mail($emaildestinatario, $assunto, $mensagemHTML, $headers, "-r". $emailsender);
-
+header('Location: index.html');
+exit;
 /* Mostrando na tela as informaçs enviadas por e-mail *
 print "Mensagem enviada com sucesso!"*/
 ?>
