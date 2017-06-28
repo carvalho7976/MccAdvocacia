@@ -27,6 +27,10 @@
         height: 400px;
         width: 100%;
        }
+.customul{
+    margin-left: 0px !important;
+}
+
 
 #intro, #work, #team {padding-top: 4rem;
     
@@ -45,9 +49,9 @@
     font-variant-numeric: normal;
     font-weight: normal;
     font-stretch: normal;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 1.4em;
-    font-family: helvetica-w01-bold, helvetica-w02-bold, helvetica-lt-w10-bold, sans-serif;
+   /* font-family: helvetica-w01-bold, helvetica-w02-bold, helvetica-lt-w10-bold, sans-serif; */
    color: #383838;
 }
 .atuacao h5{
@@ -81,6 +85,7 @@
 
 p{
     text-align: justify;
+    font-size: 18px;
 }
 .brand-logo{
     position: absolute;
